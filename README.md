@@ -1,2 +1,2 @@
 # recipe-app
-Django try-out
+Django try-out following udemy course
